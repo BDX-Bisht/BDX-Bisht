@@ -52,3 +52,10 @@ ExpressJs, MongoDB, Tailwind_Css, Bootstrap
   https://dice-game-plum.vercel.app/
 ```
 
+### 7.) Quiz-Game
+
+```bash
+  https://quiz-game-ten-phi.vercel.app/
+```
+
+
