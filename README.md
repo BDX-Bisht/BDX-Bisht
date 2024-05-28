@@ -1,7 +1,7 @@
 
 # Hi, I'm Dipanshu Bisht! 👋
 
-[![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDX-Bisht)](https://github.com/anuraghazra/github-readme-stats)
+[![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDX-Bisht&show_icons=true&theme=dark)]
 
 ## 🚀 About Me
 I'm a full stack web developer with a strong educational background and a passion for creating dynamic and user-friendly web applications. Currently pursuing a web development course, I am skilled in both front-end and back-end technologies, including HTML, CSS, JavaScript, and Node.js as well as knowledge of famous framework like React. I am eager to apply my knowledge and expand my skills in a real-world setting....
