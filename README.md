@@ -1,72 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn" width="100%" alt="Header Background" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20My%20Profile!&fontSize=55&animation=fadeIn" width="100%" alt="Header Background" />
 </div>
 
-<h1 align="center">Hi there, I'm Dipanshu Bisht! 👋</h1>
+<h1 align="center">Hey there, I’m <a href="https://github.com/BDX-Bisht">Dipanshu Bisht</a>! 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Web Developer | Tech Enthusiast | Lifelong Learner</strong>
+  <strong>Full Stack Web Developer • Builder • Learner</strong>
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#connect">Connect</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** with a strong educational background and a dedication to creating dynamic, user-friendly, and modern web applications. Currently advancing my skills through a web development course, I specialize in both front-end and back-end technologies. 
+I build modern, responsive web apps that look great and feel fast.
 
-With expertise in `HTML`, `CSS`, `JavaScript`, `Node.js`, and modern frameworks like `React`, `Next.js`, and `TailwindCSS`, I am eager to apply my knowledge and expand my skills in real-world settings to build impactful digital experiences.
+Currently leveling up my full-stack skills while building real-world projects using modern tools like **React**, **Next.js**, **Tailwind CSS**, and **Node.js**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,react,express,mongodb,tailwind,bootstrap" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,react,express,mongodb,tailwind,bootstrap" alt="Tech Stack" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BDX-Bisht&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Dipanshu's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BDX-Bisht&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🌟 1. [Mystery Message](https://mysterymessage-next.vercel.app/) *(New!)*
-A modern and interactive mystery messaging web application.
-- **Live Demo:** [mysterymessage-next.vercel.app](https://mysterymessage-next.vercel.app/)
+### 🌟 1. [Mystery Message](https://mysterymessage-next.vercel.app/)
+A modern interactive messaging experience with sleek animations and real-time feels.
 
-### 📺 2. [Youtube Clone](https://you-tube-clone-lime.vercel.app/)
-- **Live Demo:** [you-tube-clone-lime.vercel.app](https://you-tube-clone-lime.vercel.app/)
+### 📺 2. [YouTube Clone](https://you-tube-clone-lime.vercel.app/)
+A clean, responsive replica of the YouTube UI built with modern web tech.
 
 ### 🛒 3. [Swift Mart (E-Commerce)](https://swift-mart-tau.vercel.app/)
-- **Live Demo:** [swift-mart-tau.vercel.app](https://swift-mart-tau.vercel.app/)
+A demo marketplace UI showcasing product pages, cart flows, and responsive layouts.
 
 ### 🚀 4. [Landing Page](https://web-assignment-five.vercel.app/)
-- **Live Demo:** [web-assignment-five.vercel.app](https://web-assignment-five.vercel.app/)
+A polished landing page experience with modern design and transitions.
 
 ### 📈 5. [Dashboard Page](https://dashboard-page-eight.vercel.app/)
-- **Live Demo:** [dashboard-page-eight.vercel.app](https://dashboard-page-eight.vercel.app/)
+A data dashboard UI with charts and card-based layout.
 
 ### 📝 6. [Text Utils](https://text-utils-two-iota.vercel.app/)
-- **Live Demo:** [text-utils-two-iota.vercel.app](https://text-utils-two-iota.vercel.app/)
+A handy tool for transforming text with instant previews.
 
 ### 🎲 7. [Dice Game](https://dice-game-plum.vercel.app/)
-- **Live Demo:** [dice-game-plum.vercel.app](https://dice-game-plum.vercel.app/)
+A small interactive game built with JavaScript for fun.
 
 ### 🧠 8. [Quiz Game](https://quiz-game-ten-phi.vercel.app/)
-- **Live Demo:** [quiz-game-ten-phi.vercel.app](https://quiz-game-ten-phi.vercel.app/)
+A quiz experience with multiple choice questions and score tracking.
 
 ---
 
-## 🔗 Let's Connect!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BDX-Bisht&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BDX-Bisht&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub streak" />
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://portfolio-pied-gamma-71.vercel.app/">
