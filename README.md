@@ -22,7 +22,7 @@ With expertise in `HTML`, `CSS`, `JavaScript`, `Node.js`, and modern frameworks 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,react,express,mongodb,tailwind,bootstrap" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,react,next,laravel,express,mongodb,tailwind,bootstrap,shadcn" alt="My Skills" />
   </a>
 </p>
 
